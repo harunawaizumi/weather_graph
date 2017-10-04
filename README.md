@@ -16,7 +16,6 @@ This is based on this tutorial (https://www.udemy.com/react-redux/)
 2. Enter Click
 3. Show temperature, map, pressure, and humidity.
 
-DEMO: https://harunawaizumi.github.io/weather_graph/
 
 <img width="1134" alt="image1" src="https://user-images.githubusercontent.com/19813624/31176770-f8789a22-a94e-11e7-9a69-e2a218feb51e.png">
 
