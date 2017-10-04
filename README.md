@@ -1,6 +1,26 @@
-# ReduxSimpleStarter
+# 5days / 3hours Weather Forecase
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+This is based on this tutorial (https://www.udemy.com/react-redux/)
+
+### Library and Tools used in this project
+
+- Redux
+- React
+- React-Redux
+- axios https://github.com/axios/axios
+- reselect  https://github.com/reactjs/reselect
+
+### How to Use
+
+1. Type any city in the world
+2. Enter Click
+3. Show temperature, map, pressure, and humidity.
+
+DEMO: https://harunawaizumi.github.io/weather_graph/
+
+<img width="1134" alt="image1" src="https://user-images.githubusercontent.com/19813624/31176770-f8789a22-a94e-11e7-9a69-e2a218feb51e.png">
+
+
 
 ### Getting Started
 
